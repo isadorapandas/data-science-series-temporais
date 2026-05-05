@@ -1,6 +1,6 @@
 # data-science-series-temporais
 
-Este projeto teve como objetivo construir modelos de previsão de uma série temporal utilizando uma base de dados de uma empresa de aluguéis de bicicletas(**bicicletas.csv**). 
+Este projeto teve como objetivo construir modelos de previsão de uma série temporal utilizando uma base de dados de uma empresa de aluguéis de bicicletas (**bicicletas.csv**). 
 Durante a execução, foi feito tratamento dos dados para melhorar o modelo preditivo, bem como a separação dos mesmos em grupos de teste e treinamento. 
 As informações contidas na base original dos dados foram:
 
