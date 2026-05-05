@@ -5,11 +5,11 @@ Durante a execução, foi feito tratamento dos dados para melhorar o modelo pred
 As informações contidas na base original dos dados foram:
 
 - data_hora: dia, mês, ano e horário no formato 2015-08-15 23:00:00;
-- contagem;
-- temperatura: temperatura em °C;
-- sensacao_termica: em °C;
-- umidade: umidade do ar;
-- velocidade_vento: em km;
+- contagem: contagem de bicicletas;
+- temperatura: em graus Celsius;
+- sensacao_termica: em graus Celsius;
+- umidade: umidade do ar em %;
+- velocidade_vento: em km/h;
 - clima: Nublado, Parcialmente nubla, Céu limpo, Neve, Chuva leve, Chuva com trovoadas;
 - feriado: Sim ou Não;
 - fim_de_semana: Sim ou Não;
@@ -17,7 +17,7 @@ As informações contidas na base original dos dados foram:
 
 Para tal, foram usadas as seguintes bibliotecas, nas versões descritas abaixo:
 
-- pandas 1.5.3
-- seaborn 0.13.1
-- matplotlib 3.7.1
-- prophet 1.1.5
+- *pandas 1.5.3*
+- *seaborn 0.13.1*
+- *matplotlib 3.7.1*
+- *prophet 1.1.5*
